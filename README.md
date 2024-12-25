@@ -2,9 +2,14 @@
 
 This [Website](mcp-servers-schemas.vercel.app) and this document provides a list of different MCP servers. For each server, we provide a schema definition that includes the latest basic information and tool definitions.
 
-## Usage Scenario
+This [Website](mcp-servers-schemas.vercel.app) and this document is intended for users who want to quickly access the latest MCP server definitions without needing to install the MCP server locally. By reviewing the schema definitions provided in this document, users can easily obtain the most up-to-date server information and tool definitions.
 
-This [Website](mcp-servers-schemas.vercel.app) and document is intended for users who want to quickly access the latest MCP server definitions without needing to install the MCP server locally. By reviewing the schema definitions provided in this document, users can easily obtain the most up-to-date server information and tool definitions.
+## Key Features
+
+- Quick access to the latest MCP server definitions.
+- No need for local installation of MCP server.
+- Easy retrieval of up-to-date server and tool information.
+- Review of schema definitions provided in the [Website](mcp-servers-schemas.vercel.app) and this document.
 
 ## Official Integrations
 
