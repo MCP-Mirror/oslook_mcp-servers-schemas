@@ -2,6 +2,9 @@
 
 This [Website](https://mcp.oslook.com) and this document provides a list of different MCP servers. For each server, we provide a schema definition that includes the latest basic information and tool definitions.
 
+![image](https://github.com/user-attachments/assets/ca22ba6e-c809-4dc0-9063-b715484ccb8c)
+
+
 This [Website](https://mcp.oslook.com) and this document is intended for users who want to quickly access the latest MCP server definitions without needing to install the MCP server locally. By reviewing the schema definitions provided in this document, users can easily obtain the most up-to-date server information and tool definitions.
 
 ## Key Features
