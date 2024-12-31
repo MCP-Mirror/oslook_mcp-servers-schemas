@@ -2,7 +2,7 @@
 
 This [Website](https://mcp.oslook.com) and this document provides a list of different MCP servers. For each server, we provide a schema definition that includes the latest basic information and tool definitions.
 
-![image](https://github.com/user-attachments/assets/ca22ba6e-c809-4dc0-9063-b715484ccb8c)
+![image](./screenshot.png)
 
 
 This [Website](https://mcp.oslook.com) and this document is intended for users who want to quickly access the latest MCP server definitions without needing to install the MCP server locally. By reviewing the schema definitions provided in this document, users can easily obtain the most up-to-date server information and tool definitions.
@@ -13,6 +13,24 @@ This [Website](https://mcp.oslook.com) and this document is intended for users w
 - No need for local installation of MCP server.
 - Easy retrieval of up-to-date server and tool information.
 - Review of schema definitions provided in the [Website](https://mcp.oslook.com) and this document.
+
+## How to Contribute to MCP Servers Schemas Repository
+
+### 1. Create a New Issue
+- Click on the "Issues" tab and then click "New issue".
+- Provide a clear title that describes your contribution (e.g., "Add MCP Server XYZ").
+- In the description, specify the name of the MCP server you are referring to and provide any additional details or schemas if applicable.
+
+### 2. Task Assignment  
+- We will review your issue and add it to our list of tasks.
+- You will be notified once your task has been assigned.
+
+### 3. Regular Updates
+- We will periodically update the schemas for the MCP server in this repository.
+- Keep an eye on the repository for updates, and you can always pull the latest definitions as needed.
+
+Thank you for contributing to our project!
+
 
 ## Official Integrations
 
